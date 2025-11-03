@@ -5,9 +5,6 @@ Odak nokta: **basit ama derli toplu bir pipeline** kurmak.
 
 - İkili sınıflandırma + OpenCV ile tek görsel üzerinde tahmin
 - CIFAR-10 üzerinde çok sınıflı CNN + data augmentation
-
----
-
 ---
 
 ## 🔹 Proje 1 – Binary Image Classification + OpenCV
