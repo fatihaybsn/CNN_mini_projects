@@ -1,4 +1,4 @@
-# CNN Image Classification Experiments (Keras & OpenCV)
+# CNN Image Classification (Keras & OpenCV)
 
 Bu repo, görüntü sınıflandırma alanında öğrenme amacıyla yaptığım iki küçük ama uçtan uca çalışan denemeyi içerir.  
 Odak nokta: **basit ama derli toplu bir pipeline** kurmak.
