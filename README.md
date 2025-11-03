@@ -8,17 +8,6 @@ Odak nokta: **basit ama derli toplu bir pipeline** kurmak.
 
 ---
 
-## 📁 Proje Yapısı
-
-```text
-.
-├── 01-binary-custom-opencv/
-│   └── binary_image_classification_pipeline.ipynb
-├── 02-cifar10-cnn-augmentation/
-│   └── cifar10_cnn.py
-└── README.md
-```
-
 ---
 
 ## 🔹 Proje 1 – Binary Image Classification + OpenCV
